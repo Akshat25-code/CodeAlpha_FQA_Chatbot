@@ -14,3 +14,6 @@ This is a simple rule-based chatbot built using Python. It responds to predefine
 2. Run the script:
 ```bash
 python faq_chatbot.py
+
+Author:
+Akshat Gupta - CodeAlpha AI Intern
